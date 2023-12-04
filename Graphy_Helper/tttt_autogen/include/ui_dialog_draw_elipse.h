@@ -26,11 +26,11 @@ public:
     QLabel *label_2;
     QLabel *label_3;
     QSpinBox *spinBox;
-    QPushButton *pushButton;
-    QPushButton *pushButton_2;
+    QPushButton *pushButton_ok;
+    QPushButton *pushButton_cancel;
     QSpinBox *spinBox_2;
     QLabel *label_4;
-    QPushButton *pushButton_3;
+    QPushButton *pushButton_settings;
 
     void setupUi(QDialog *Dialog_draw_elipse)
     {
@@ -85,13 +85,13 @@ public:
 "}"));
         spinBox->setMaximum(10000);
         spinBox->setValue(0);
-        pushButton = new QPushButton(Dialog_draw_elipse);
-        pushButton->setObjectName(QString::fromUtf8("pushButton"));
-        pushButton->setGeometry(QRect(70, 205, 82, 32));
+        pushButton_ok = new QPushButton(Dialog_draw_elipse);
+        pushButton_ok->setObjectName(QString::fromUtf8("pushButton_ok"));
+        pushButton_ok->setGeometry(QRect(70, 205, 82, 32));
         QFont font3;
         font3.setPointSize(11);
-        pushButton->setFont(font3);
-        pushButton->setStyleSheet(QString::fromUtf8("QPushButton {\n"
+        pushButton_ok->setFont(font3);
+        pushButton_ok->setStyleSheet(QString::fromUtf8("QPushButton {\n"
 "    background-color: rgb(227, 227, 227);\n"
 "    border-radius: 10px;\n"
 "    border: 1px solid gray;\n"
@@ -102,11 +102,11 @@ public:
 "	font-size: 9pt;\n"
 "	font-weight: bold;\n"
 "}"));
-        pushButton_2 = new QPushButton(Dialog_draw_elipse);
-        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
-        pushButton_2->setGeometry(QRect(270, 205, 82, 32));
-        pushButton_2->setFont(font3);
-        pushButton_2->setStyleSheet(QString::fromUtf8("QPushButton {\n"
+        pushButton_cancel = new QPushButton(Dialog_draw_elipse);
+        pushButton_cancel->setObjectName(QString::fromUtf8("pushButton_cancel"));
+        pushButton_cancel->setGeometry(QRect(270, 205, 82, 32));
+        pushButton_cancel->setFont(font3);
+        pushButton_cancel->setStyleSheet(QString::fromUtf8("QPushButton {\n"
 "    background-color: rgb(227, 227, 227);\n"
 "    border-radius: 10px;\n"
 "    border: 1px solid gray;\n"
@@ -145,14 +145,14 @@ public:
         label_4->setObjectName(QString::fromUtf8("label_4"));
         label_4->setGeometry(QRect(22, 120, 37, 28));
         label_4->setFont(font1);
-        pushButton_3 = new QPushButton(Dialog_draw_elipse);
-        pushButton_3->setObjectName(QString::fromUtf8("pushButton_3"));
-        pushButton_3->setGeometry(QRect(20, 160, 35, 35));
-        pushButton_3->setStyleSheet(QString::fromUtf8("border-radius: 10px;"));
+        pushButton_settings = new QPushButton(Dialog_draw_elipse);
+        pushButton_settings->setObjectName(QString::fromUtf8("pushButton_settings"));
+        pushButton_settings->setGeometry(QRect(20, 160, 35, 35));
+        pushButton_settings->setStyleSheet(QString::fromUtf8("border-radius: 10px;"));
         QIcon icon;
         icon.addFile(QString::fromUtf8(":/images/img/pen_param.png"), QSize(), QIcon::Normal, QIcon::Off);
-        pushButton_3->setIcon(icon);
-        pushButton_3->setIconSize(QSize(35, 35));
+        pushButton_settings->setIcon(icon);
+        pushButton_settings->setIconSize(QSize(35, 35));
 
         retranslateUi(Dialog_draw_elipse);
 
@@ -165,13 +165,13 @@ public:
         label->setText(QCoreApplication::translate("Dialog_draw_elipse", "Enter the dimensions of the ellipse to draw", nullptr));
         label_2->setText(QCoreApplication::translate("Dialog_draw_elipse", "a = ", nullptr));
         label_3->setText(QString());
-        pushButton->setText(QCoreApplication::translate("Dialog_draw_elipse", "Ok", nullptr));
-        pushButton_2->setText(QCoreApplication::translate("Dialog_draw_elipse", "Cancel", nullptr));
+        pushButton_ok->setText(QCoreApplication::translate("Dialog_draw_elipse", "Ok", nullptr));
+        pushButton_cancel->setText(QCoreApplication::translate("Dialog_draw_elipse", "Cancel", nullptr));
         label_4->setText(QCoreApplication::translate("Dialog_draw_elipse", "b =", nullptr));
 #if QT_CONFIG(tooltip)
-        pushButton_3->setToolTip(QCoreApplication::translate("Dialog_draw_elipse", "<html><head/><body><p><span style=\" font-weight:700; font-style:italic; color:#000000;\">Setting up drawing styles</span></p></body></html>", nullptr));
+        pushButton_settings->setToolTip(QCoreApplication::translate("Dialog_draw_elipse", "<html><head/><body><p><span style=\" font-weight:700; font-style:italic; color:#000000;\">Setting up drawing styles</span></p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        pushButton_3->setText(QString());
+        pushButton_settings->setText(QString());
     } // retranslateUi
 
 };

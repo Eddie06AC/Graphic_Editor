@@ -31,8 +31,8 @@ struct qt_meta_stringdata_paintScene_t {
     char stringdata4[16];
     char stringdata5[26];
     char stringdata6[6];
-    char stringdata7[18];
-    char stringdata8[15];
+    char stringdata7[15];
+    char stringdata8[18];
     char stringdata9[14];
     char stringdata10[11];
     char stringdata11[2];
@@ -49,8 +49,8 @@ static const qt_meta_stringdata_paintScene_t qt_meta_stringdata_paintScene = {
         QT_MOC_LITERAL(38, 15),  // "mousePressEvent"
         QT_MOC_LITERAL(54, 25),  // "QGraphicsSceneMouseEvent*"
         QT_MOC_LITERAL(80, 5),  // "event"
-        QT_MOC_LITERAL(86, 17),  // "mouseReleaseEvent"
-        QT_MOC_LITERAL(104, 14),  // "mouseMoveEvent"
+        QT_MOC_LITERAL(86, 14),  // "mouseMoveEvent"
+        QT_MOC_LITERAL(101, 17),  // "mouseReleaseEvent"
         QT_MOC_LITERAL(119, 13),  // "keyPressEvent"
         QT_MOC_LITERAL(133, 10),  // "QKeyEvent*"
         QT_MOC_LITERAL(144, 1),  // "e"
@@ -63,8 +63,8 @@ static const qt_meta_stringdata_paintScene_t qt_meta_stringdata_paintScene = {
     "mousePressEvent",
     "QGraphicsSceneMouseEvent*",
     "event",
-    "mouseReleaseEvent",
     "mouseMoveEvent",
+    "mouseReleaseEvent",
     "keyPressEvent",
     "QKeyEvent*",
     "e",
@@ -112,8 +112,8 @@ void paintScene::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         switch (_id) {
         case 0: _t->set_previous_pos((*reinterpret_cast< std::add_pointer_t<QPointF>>(_a[1]))); break;
         case 1: _t->mousePressEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
-        case 2: _t->mouseReleaseEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
-        case 3: _t->mouseMoveEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
+        case 2: _t->mouseMoveEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
+        case 3: _t->mouseReleaseEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
         case 4: _t->keyPressEvent((*reinterpret_cast< std::add_pointer_t<QKeyEvent*>>(_a[1]))); break;
         case 5: _t->keyReleaseEvent((*reinterpret_cast< std::add_pointer_t<QKeyEvent*>>(_a[1]))); break;
         default: ;

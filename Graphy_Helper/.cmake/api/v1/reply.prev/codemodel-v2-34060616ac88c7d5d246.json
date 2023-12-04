@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c58b934bec063593fe35.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tttt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-239f89110b119cc496fc.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tttt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tttt-Debug-68ae3d160ff780818eb8.json",
+					"name" : "tttt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tttt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tttt_autogen-Debug-a8cbd7c113afa0b1a10b.json",
+					"name" : "tttt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tttt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tttt_autogen_timestamp_deps-Debug-ba7d786d66abc301820c.json",
+					"name" : "tttt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tttt_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tttt_lrelease-Debug-d294316901c2a97381f4.json",
+					"name" : "tttt_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tttt_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tttt_lupdate-Debug-b60fce8099e0fe732d6a.json",
+					"name" : "tttt_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-7e2800cb63b64879c91f.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "D:/Programming/tttt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

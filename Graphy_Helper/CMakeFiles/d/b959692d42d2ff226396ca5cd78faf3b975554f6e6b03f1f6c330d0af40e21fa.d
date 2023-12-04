@@ -297,38 +297,40 @@ tttt_autogen/timestamp: \
   C:/Qt/6.3.2/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
   C:/Qt/6.3.2/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   C:/Qt/6.3.2/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseArguments.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckLibraryExists.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/GNU.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageMessage.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindThreads.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindVulkan.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/GNUInstallDirs.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake \
+  C:/Qt/Tools/CMake_64/bin/cmake.exe \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckLibraryExists.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageMessage.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindThreads.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindVulkan.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/GNUInstallDirs.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows.cmake \
+  C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake \
   C:/Qt/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake \
   C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
   C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \
@@ -543,39 +545,53 @@ tttt_autogen/timestamp: \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
-  CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.24.2/CMakeRCCompiler.cmake \
-  CMakeFiles/3.24.2/CMakeSystem.cmake \
+  CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
+  CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
+  CMakeFiles/3.27.7/CMakeSystem.cmake \
   tttt_autogen/moc_predefs.h \
   D:/Programming/tttt/CMakeLists.txt \
   D:/Programming/tttt/calligraphic_line.cpp \
   D:/Programming/tttt/calligraphic_line.h \
+  D:/Programming/tttt/calligraphic_line_first.cpp \
+  D:/Programming/tttt/calligraphic_line_first.h \
   D:/Programming/tttt/circle.cpp \
   D:/Programming/tttt/circle.h \
   D:/Programming/tttt/dialog_clear_all.cpp \
   D:/Programming/tttt/dialog_clear_all.h \
+  D:/Programming/tttt/dialog_clear_all.ui \
   D:/Programming/tttt/dialog_draw_circle.cpp \
   D:/Programming/tttt/dialog_draw_circle.h \
+  D:/Programming/tttt/dialog_draw_circle.ui \
   D:/Programming/tttt/dialog_draw_elipse.cpp \
   D:/Programming/tttt/dialog_draw_elipse.h \
+  D:/Programming/tttt/dialog_draw_elipse.ui \
   D:/Programming/tttt/dialog_draw_line.cpp \
   D:/Programming/tttt/dialog_draw_line.h \
+  D:/Programming/tttt/dialog_draw_line.ui \
   D:/Programming/tttt/dialog_draw_rect.cpp \
   D:/Programming/tttt/dialog_draw_rect.h \
+  D:/Programming/tttt/dialog_draw_rect.ui \
   D:/Programming/tttt/dialog_draw_romb.cpp \
   D:/Programming/tttt/dialog_draw_romb.h \
+  D:/Programming/tttt/dialog_draw_romb.ui \
   D:/Programming/tttt/dialog_draw_square.cpp \
   D:/Programming/tttt/dialog_draw_square.h \
+  D:/Programming/tttt/dialog_draw_square.ui \
   D:/Programming/tttt/dialog_draw_triangle.cpp \
   D:/Programming/tttt/dialog_draw_triangle.h \
+  D:/Programming/tttt/dialog_draw_triangle.ui \
   D:/Programming/tttt/dialog_maybe_save.cpp \
   D:/Programming/tttt/dialog_maybe_save.h \
+  D:/Programming/tttt/dialog_maybe_save.ui \
   D:/Programming/tttt/dialog_pen_param.cpp \
   D:/Programming/tttt/dialog_pen_param.h \
+  D:/Programming/tttt/dialog_pen_param.ui \
   D:/Programming/tttt/dialog_size_pen.cpp \
   D:/Programming/tttt/dialog_size_pen.h \
+  D:/Programming/tttt/dialog_size_pen.ui \
   D:/Programming/tttt/dialog_size_scene.cpp \
   D:/Programming/tttt/dialog_size_scene.h \
+  D:/Programming/tttt/dialog_size_scene.ui \
   D:/Programming/tttt/ellipse.cpp \
   D:/Programming/tttt/ellipse.h \
   D:/Programming/tttt/figure.cpp \
@@ -586,9 +602,20 @@ tttt_autogen/timestamp: \
   D:/Programming/tttt/line.h \
   D:/Programming/tttt/line_group.cpp \
   D:/Programming/tttt/line_group.h \
+  D:/Programming/tttt/line_group_circle.cpp \
+  D:/Programming/tttt/line_group_circle.h \
+  D:/Programming/tttt/line_group_elements.cpp \
+  D:/Programming/tttt/line_group_elements.h \
+  D:/Programming/tttt/line_group_line.cpp \
+  D:/Programming/tttt/line_group_line.h \
+  D:/Programming/tttt/line_group_line_square.cpp \
+  D:/Programming/tttt/line_group_line_square.h \
+  D:/Programming/tttt/line_group_square.cpp \
+  D:/Programming/tttt/line_group_square.h \
   D:/Programming/tttt/main.cpp \
   D:/Programming/tttt/mainwindow.cpp \
   D:/Programming/tttt/mainwindow.h \
+  D:/Programming/tttt/mainwindow.ui \
   D:/Programming/tttt/my_pixmap.cpp \
   D:/Programming/tttt/my_pixmap.h \
   D:/Programming/tttt/paint_pen.cpp \
@@ -644,21 +671,9 @@ tttt_autogen/timestamp: \
   D:/Programming/tttt/undo_delete_pixmap.h \
   D:/Programming/tttt/undo_delete_text_item.cpp \
   D:/Programming/tttt/undo_delete_text_item.h \
+  D:/Programming/tttt/undo_fill_figure.cpp \
+  D:/Programming/tttt/undo_fill_figure.h \
   D:/Programming/tttt/undo_move_items.cpp \
   D:/Programming/tttt/undo_move_items.h \
   D:/Programming/tttt/undo_paste_image.cpp \
-  D:/Programming/tttt/undo_paste_image.h \
-  D:/Programming/tttt/dialog_clear_all.ui \
-  D:/Programming/tttt/dialog_draw_circle.ui \
-  D:/Programming/tttt/dialog_draw_elipse.ui \
-  D:/Programming/tttt/dialog_draw_line.ui \
-  D:/Programming/tttt/dialog_draw_rect.ui \
-  D:/Programming/tttt/dialog_draw_romb.ui \
-  D:/Programming/tttt/dialog_draw_square.ui \
-  D:/Programming/tttt/dialog_draw_triangle.ui \
-  D:/Programming/tttt/dialog_maybe_save.ui \
-  D:/Programming/tttt/dialog_pen_param.ui \
-  D:/Programming/tttt/dialog_size_pen.ui \
-  D:/Programming/tttt/dialog_size_scene.ui \
-  D:/Programming/tttt/mainwindow.ui \
-  C:/Qt/Tools/CMake_64/bin/cmake.exe
+  D:/Programming/tttt/undo_paste_image.h

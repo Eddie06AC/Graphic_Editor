@@ -420,6 +420,7 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
   D:/Programming/tttt/calligraphic_line.h \
+  D:/Programming/tttt/calligraphic_line_first.h \
   D:/Programming/tttt/circle.h \
   D:/Programming/tttt/dialog_clear_all.h \
   D:/Programming/tttt/dialog_draw_circle.h \
@@ -438,6 +439,11 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   D:/Programming/tttt/layers.h \
   D:/Programming/tttt/line.h \
   D:/Programming/tttt/line_group.h \
+  D:/Programming/tttt/line_group_circle.h \
+  D:/Programming/tttt/line_group_elements.h \
+  D:/Programming/tttt/line_group_line.h \
+  D:/Programming/tttt/line_group_line_square.h \
+  D:/Programming/tttt/line_group_square.h \
   D:/Programming/tttt/mainwindow.h \
   D:/Programming/tttt/my_pixmap.h \
   D:/Programming/tttt/paint_pen.h \

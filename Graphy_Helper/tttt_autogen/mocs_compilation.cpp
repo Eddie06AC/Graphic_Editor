@@ -13,6 +13,7 @@
 #include "EWIEGA46WW/moc_dialog_size_scene.cpp"
 #include "EWIEGA46WW/moc_ellipse.cpp"
 #include "EWIEGA46WW/moc_figure.cpp"
+#include "EWIEGA46WW/moc_line_group_elements.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
 #include "EWIEGA46WW/moc_paint_pen.cpp"
 #include "EWIEGA46WW/moc_rectangle.cpp"

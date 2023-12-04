@@ -1,14 +1,7 @@
 D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEGA46WW/moc_dialog_draw_triangle.cpp: D:/Programming/tttt/dialog_draw_triangle.h \
   D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/moc_predefs.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/QDebug \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.3.2/mingw_64/include/QtCore/QObject \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QRect \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QSize \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QSizeF \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QTimer \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/QTranslator \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qabstractitemmodel.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qanystringview.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qarraydata.h \
@@ -17,7 +10,6 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/6.3.2/mingw_64/include/QtCore/qatomic.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qatomic_cxx11.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qbasicatomic.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qbasictimer.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qbindingstorage.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qbytearray.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qbytearrayalgorithms.h \
@@ -32,35 +24,26 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/6.3.2/mingw_64/include/QtCore/qcontainerinfo.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qcontainertools_impl.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qcontiguouscache.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qcoreapplication.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qcoreapplication_platform.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qcoreevent.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qdatastream.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qdebug.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qeventloop.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qgenericatomic.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qglobal.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qglobalstatic.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qhash.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qhashfunctions.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qiodevice.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qiodevicebase.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qitemselectionmodel.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qline.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qlist.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qmap.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qmargins.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qmath.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qmetacontainer.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qmetatype.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qmimedata.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qnamespace.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qnativeinterface.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qnumeric.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qobject.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qobject_impl.h \
@@ -68,11 +51,9 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/6.3.2/mingw_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qpair.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qpoint.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qrect.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qrefcount.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qregularexpression.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qscopeguard.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qset.h \
@@ -95,116 +76,59 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/6.3.2/mingw_64/include/QtCore/qtcore-config.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qtcoreexports.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qtextstream.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qtimer.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qtmetamacros.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qtranslator.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qtypeinfo.h \
-  C:/Qt/6.3.2/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.3.2/mingw_64/include/QtCore/qversiontagging.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/QCursor \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/QMouseEvent \
   C:/Qt/6.3.2/mingw_64/include/QtGui/QPainter \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/QPixmap \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.3.2/mingw_64/include/QtGui/QUndoCommand \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/QUndoStack \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qbitmap.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qbrush.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qcolor.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qcursor.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qevent.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qeventpoint.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qfont.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qfontinfo.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qfontmetrics.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qguiapplication.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qguiapplication_platform.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qicon.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qimage.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qinputdevice.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qinputmethod.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpainter.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpainterpath.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpalette.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpen.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qpicture.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpixmap.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qpointingdevice.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qpolygon.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qrgba64.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qscreen.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qtextcursor.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qtextdocument.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qtextformat.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qtguiglobal.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qundostack.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qvalidator.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qvector2d.h \
-  C:/Qt/6.3.2/mingw_64/include/QtGui/qvectornd.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.3.2/mingw_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QColorDialog \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/QDialog \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsItem \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsItemGroup \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsPixmapItem \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsScene \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsSceneMouseEvent \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsTextItem \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/QGraphicsView \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QInputDialog \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QLabel \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QLabel.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QMainWindow \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QMessageBox \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QScrollBar \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/QWidget \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qabstractitemview.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qabstractscrollarea.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qabstractslider.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qabstractspinbox.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qapplication.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qcolordialog.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qgraphicsitem.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qgraphicsscene.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qgraphicssceneevent.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qgraphicsview.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qinputdialog.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qlabel.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qlineedit.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qlistview.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qmainwindow.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qmessagebox.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qrubberband.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qscrollarea.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qscrollbar.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qslider.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qstyle.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qstyleoption.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qtabbar.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qundostack.h \
-  C:/Qt/6.3.2/mingw_64/include/QtWidgets/qundoview.h \
   C:/Qt/6.3.2/mingw_64/include/QtWidgets/qwidget.h \
   C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
   C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \
@@ -419,52 +343,5 @@ D:/Programming/build-tttt-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/tttt_autogen/EWIEG
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
-  D:/Programming/tttt/calligraphic_line.h \
-  D:/Programming/tttt/circle.h \
-  D:/Programming/tttt/dialog_clear_all.h \
-  D:/Programming/tttt/dialog_draw_circle.h \
-  D:/Programming/tttt/dialog_draw_elipse.h \
-  D:/Programming/tttt/dialog_draw_line.h \
-  D:/Programming/tttt/dialog_draw_rect.h \
-  D:/Programming/tttt/dialog_draw_romb.h \
-  D:/Programming/tttt/dialog_draw_square.h \
-  D:/Programming/tttt/dialog_draw_triangle.h \
-  D:/Programming/tttt/dialog_maybe_save.h \
-  D:/Programming/tttt/dialog_pen_param.h \
-  D:/Programming/tttt/dialog_size_pen.h \
-  D:/Programming/tttt/dialog_size_scene.h \
-  D:/Programming/tttt/ellipse.h \
   D:/Programming/tttt/figure.h \
-  D:/Programming/tttt/layers.h \
-  D:/Programming/tttt/line.h \
-  D:/Programming/tttt/line_group.h \
-  D:/Programming/tttt/mainwindow.h \
-  D:/Programming/tttt/my_pixmap.h \
-  D:/Programming/tttt/paint_pen.h \
-  D:/Programming/tttt/rectangle.h \
-  D:/Programming/tttt/romb.h \
-  D:/Programming/tttt/scale.h \
-  D:/Programming/tttt/square.h \
-  D:/Programming/tttt/text_element.h \
-  D:/Programming/tttt/triangle.h \
-  D:/Programming/tttt/triangle_equilater.h \
-  D:/Programming/tttt/triangle_isosceles.h \
-  D:/Programming/tttt/triangle_rectangular.h \
-  D:/Programming/tttt/undo_add_command_figure_param.h \
-  D:/Programming/tttt/undo_add_mouse_figure.h \
-  D:/Programming/tttt/undo_add_paint_from_pen.h \
-  D:/Programming/tttt/undo_add_pixmap.h \
-  D:/Programming/tttt/undo_add_text_item.h \
-  D:/Programming/tttt/undo_clear_layout.h \
-  D:/Programming/tttt/undo_copy_figures.h \
-  D:/Programming/tttt/undo_copy_many_elements.h \
-  D:/Programming/tttt/undo_copy_painting.h \
-  D:/Programming/tttt/undo_delete_command_figure.h \
-  D:/Programming/tttt/undo_delete_many_elements.h \
-  D:/Programming/tttt/undo_delete_mouse_figure.h \
-  D:/Programming/tttt/undo_delete_paint_from_pen.h \
-  D:/Programming/tttt/undo_delete_pasted_image.h \
-  D:/Programming/tttt/undo_delete_pixmap.h \
-  D:/Programming/tttt/undo_delete_text_item.h \
-  D:/Programming/tttt/undo_move_items.h \
-  D:/Programming/tttt/undo_paste_image.h
+  D:/Programming/tttt/undo_add_command_figure_param.h

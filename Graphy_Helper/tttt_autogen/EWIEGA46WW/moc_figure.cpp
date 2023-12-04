@@ -22,7 +22,7 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_Figure_t {
-    uint offsetsAndSizes[20];
+    uint offsetsAndSizes[26];
     char stringdata0[7];
     char stringdata1[13];
     char stringdata2[1];
@@ -31,8 +31,11 @@ struct qt_meta_stringdata_Figure_t {
     char stringdata5[26];
     char stringdata6[6];
     char stringdata7[18];
-    char stringdata8[11];
-    char stringdata9[9];
+    char stringdata8[15];
+    char stringdata9[26];
+    char stringdata10[16];
+    char stringdata11[11];
+    char stringdata12[9];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_Figure_t::offsetsAndSizes) + ofs), len 
@@ -46,8 +49,11 @@ static const qt_meta_stringdata_Figure_t qt_meta_stringdata_Figure = {
         QT_MOC_LITERAL(48, 25),  // "QGraphicsSceneMouseEvent*"
         QT_MOC_LITERAL(74, 5),  // "event"
         QT_MOC_LITERAL(80, 17),  // "mouseReleaseEvent"
-        QT_MOC_LITERAL(98, 10),  // "startPoint"
-        QT_MOC_LITERAL(109, 8)   // "endPoint"
+        QT_MOC_LITERAL(98, 14),  // "hoverMoveEvent"
+        QT_MOC_LITERAL(113, 25),  // "QGraphicsSceneHoverEvent*"
+        QT_MOC_LITERAL(139, 15),  // "hoverLeaveEvent"
+        QT_MOC_LITERAL(155, 10),  // "startPoint"
+        QT_MOC_LITERAL(166, 8)   // "endPoint"
     },
     "Figure",
     "pointChanged",
@@ -57,6 +63,9 @@ static const qt_meta_stringdata_Figure_t qt_meta_stringdata_Figure = {
     "QGraphicsSceneMouseEvent*",
     "event",
     "mouseReleaseEvent",
+    "hoverMoveEvent",
+    "QGraphicsSceneHoverEvent*",
+    "hoverLeaveEvent",
     "startPoint",
     "endPoint"
 };
@@ -68,20 +77,22 @@ static const uint qt_meta_data_Figure[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       4,   14, // methods
-       2,   46, // properties
+       6,   14, // methods
+       2,   64, // properties
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
        1,       // signalCount
 
  // signals: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    0,   38,    2, 0x06,    3 /* Public */,
+       1,    0,   50,    2, 0x06,    3 /* Public */,
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       3,    0,   39,    2, 0x0a,    4 /* Public */,
-       4,    1,   40,    2, 0x0a,    5 /* Public */,
-       7,    1,   43,    2, 0x0a,    7 /* Public */,
+       3,    0,   51,    2, 0x0a,    4 /* Public */,
+       4,    1,   52,    2, 0x0a,    5 /* Public */,
+       7,    1,   55,    2, 0x0a,    7 /* Public */,
+       8,    1,   58,    2, 0x0a,    9 /* Public */,
+      10,    1,   61,    2, 0x0a,   11 /* Public */,
 
  // signals: parameters
     QMetaType::Void,
@@ -90,10 +101,12 @@ static const uint qt_meta_data_Figure[] = {
     QMetaType::Void,
     QMetaType::Void, 0x80000000 | 5,    6,
     QMetaType::Void, 0x80000000 | 5,    6,
+    QMetaType::Void, 0x80000000 | 9,    6,
+    QMetaType::Void, 0x80000000 | 9,    6,
 
  // properties: name, type, flags
-       8, QMetaType::QPointF, 0x00015103, uint(0), 0,
-       9, QMetaType::QPointF, 0x00015103, uint(0), 0,
+      11, QMetaType::QPointF, 0x00015103, uint(0), 0,
+      12, QMetaType::QPointF, 0x00015103, uint(0), 0,
 
        0        // eod
 };
@@ -108,6 +121,8 @@ void Figure::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void
         case 1: _t->updateRomb(); break;
         case 2: _t->mousePressEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
         case 3: _t->mouseReleaseEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneMouseEvent*>>(_a[1]))); break;
+        case 4: _t->hoverMoveEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneHoverEvent*>>(_a[1]))); break;
+        case 5: _t->hoverLeaveEvent((*reinterpret_cast< std::add_pointer_t<QGraphicsSceneHoverEvent*>>(_a[1]))); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -153,7 +168,7 @@ const QMetaObject Figure::staticMetaObject = { {
     nullptr,
 qt_incomplete_metaTypeArray<qt_meta_stringdata_Figure_t
 , QtPrivate::TypeAndForceComplete<QPointF, std::true_type>, QtPrivate::TypeAndForceComplete<QPointF, std::true_type>, QtPrivate::TypeAndForceComplete<Figure, std::true_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>
-, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneMouseEvent *, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneMouseEvent *, std::false_type>
+, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneMouseEvent *, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneMouseEvent *, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneHoverEvent *, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<QGraphicsSceneHoverEvent *, std::false_type>
 
 
 >,
@@ -182,13 +197,13 @@ int Figure::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 4)
+        if (_id < 6)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 4;
+        _id -= 6;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 4)
+        if (_id < 6)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 4;
+        _id -= 6;
     }
 #ifndef QT_NO_PROPERTIES
     else if (_c == QMetaObject::ReadProperty || _c == QMetaObject::WriteProperty

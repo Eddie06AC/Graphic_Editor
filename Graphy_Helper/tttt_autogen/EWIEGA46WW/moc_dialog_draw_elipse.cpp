@@ -8,7 +8,6 @@
 
 #include <memory>
 #include "../../../tttt/dialog_draw_elipse.h"
-#include <QtGui/qtextcursor.h>
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)
@@ -25,26 +24,26 @@ QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_Dialog_draw_elipse_t {
     uint offsetsAndSizes[10];
     char stringdata0[19];
-    char stringdata1[22];
+    char stringdata1[25];
     char stringdata2[1];
-    char stringdata3[24];
-    char stringdata4[24];
+    char stringdata3[29];
+    char stringdata4[31];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_Dialog_draw_elipse_t::offsetsAndSizes) + ofs), len 
 static const qt_meta_stringdata_Dialog_draw_elipse_t qt_meta_stringdata_Dialog_draw_elipse = {
     {
         QT_MOC_LITERAL(0, 18),  // "Dialog_draw_elipse"
-        QT_MOC_LITERAL(19, 21),  // "on_pushButton_clicked"
-        QT_MOC_LITERAL(41, 0),  // ""
-        QT_MOC_LITERAL(42, 23),  // "on_pushButton_2_clicked"
-        QT_MOC_LITERAL(66, 23)   // "on_pushButton_3_clicked"
+        QT_MOC_LITERAL(19, 24),  // "on_pushButton_clicked_ok"
+        QT_MOC_LITERAL(44, 0),  // ""
+        QT_MOC_LITERAL(45, 28),  // "on_pushButton_clicked_cancel"
+        QT_MOC_LITERAL(74, 30)   // "on_pushButton_clicked_settings"
     },
     "Dialog_draw_elipse",
-    "on_pushButton_clicked",
+    "on_pushButton_clicked_ok",
     "",
-    "on_pushButton_2_clicked",
-    "on_pushButton_3_clicked"
+    "on_pushButton_clicked_cancel",
+    "on_pushButton_clicked_settings"
 };
 #undef QT_MOC_LITERAL
 
@@ -80,9 +79,9 @@ void Dialog_draw_elipse::qt_static_metacall(QObject *_o, QMetaObject::Call _c, i
         auto *_t = static_cast<Dialog_draw_elipse *>(_o);
         (void)_t;
         switch (_id) {
-        case 0: _t->on_pushButton_clicked(); break;
-        case 1: _t->on_pushButton_2_clicked(); break;
-        case 2: _t->on_pushButton_3_clicked(); break;
+        case 0: _t->on_pushButton_clicked_ok(); break;
+        case 1: _t->on_pushButton_clicked_cancel(); break;
+        case 2: _t->on_pushButton_clicked_settings(); break;
         default: ;
         }
     }
